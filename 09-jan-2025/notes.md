@@ -15,7 +15,7 @@
     - **Matrix Multiplication:** multiply two matrices if the *number of columns in the first matrix* equals the *number of rows in the second*.
     - **Division (Matrix Inverse Multiplication):** use the inverse of a matrix for division-like behavior.
     - **Determinant of square matrix:** is a scalar that indicates its invertibility and the scaling factor of its transformation.
-    - **Inverse of a square matrix:** *A* is another matrix $\ A^{-1} $ such that $\ A * A^{-1} = A^{-1} * A = I $, where *I* is the identity matrix.
+    - **Inverse of a square matrix:** *A* is another matrix \( A^{-1} \) such that \( A \cdot A^{-1} = A^{-1} \cdot A = I \), where *I* is the identity matrix.
     - **Transposing a matrix:** changing its rows and columns.
 
 - Some concepts to review about vectors:
