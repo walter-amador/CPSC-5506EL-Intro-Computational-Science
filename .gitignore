@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# Python
+venv
+__pycache__/
+
+# Nodejs
+node_modules/
+
+# Environment Variables
+.env
+
+# Private
+private
